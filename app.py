@@ -119,7 +119,7 @@ output_parser=StrOutputParser()
 chain=prompt|llm|output_parser
 
 
-st.title('Med AI🩺')
+st.title('2dEcho🩺')
 input_text=st.text_input('enter your data')
 
 st.session_state.modified = None
