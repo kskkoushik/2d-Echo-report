@@ -1,0 +1,6 @@
+langchain_core
+python-dotenv
+langchain_google_genai
+streamlit
+flask
+python-docx
